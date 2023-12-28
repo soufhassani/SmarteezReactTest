@@ -1,3 +1,8 @@
+/*
+  ** Je vous invite a lire la petite documentation que j'ai preparé pour vous!
+  ** Je vous remercie encore pour cette opportunité et je suis impatient de contribuer à l'équipe Smarteez.
+*/
+
 import Button from "./components/Button";
 import { useState } from "react";
 
