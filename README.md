@@ -5,17 +5,17 @@ Ce projet est un test d'application pour l'entreprise `Smarteez` dans le but de 
 * Si le numéro devient supérieur à 0, il doit être affiché en bleu.
 * Si le numéro devient inférieur à 0, il doit être affiché en rouge.
 
-Ansi que, j'ai essayer d'appliquer le maximum possible des technique ES6 et quelque autre technique React:
+De plus, j'ai essayé d'appliquer le maximum possible de techniques ES6 et quelques autres techniques React :
 **J'ai Appliqué :**
-* La technique de Component, et manipuler les props(les parametres).
-* Utilisation de React hook useState, pour le but de gerer change l'etat de la varriable `Counter` en utilisont la fonction `setCounter`.
-* Utilisation de `ternary operator`, dans le cas de la varriable `addCounterClass` qui vas nous returner comme value `blue`, `rouge` ou vide pour le but de change la class html de `Counter` pour change la sa couleur en CSS.
-* Utilisation de `Object distructuring` pour le cas de passer les parametre au Component `<Button />` et aussi `Array distructuring` pour la case de hook `useState`.
-* Ajout d'une animation de click lorsque l'utilisateur click le button, pour qu'il apprécier le sentiment de satisfaction lors de click.
+* La technique des composants et la manipulation des props (les paramètres).
+* Utilisation du React hook useState, dans le but de gérer le changement de l'état de la variable `Counter` en utilisant la fonction `setCounter`.
+* Utilisation de l'opérateur ternaire, dans le cas de la variable `addCounterClass` qui nous retournera comme valeur `blue`, `rouge` ou vide dans le but de changer la classe HTML de `Counter` pour changer sa couleur en CSS.
+* Utilisation de la déstructuration d'objet pour le passage des paramètres au composant `<Button />` et également de la déstructuration de tableau pour le cas du hook `useState`.
+* Ajout d'une animation de clic lorsque l'utilisateur clique sur le bouton, pour qu'il apprécie le sentiment de satisfaction lors du clic.
 
-## Pour avoir le projet dans votre machine
+## Pour obtenir le projet sur votre machine
 
-Pour utiliser ce test, veuillez copier [https://github.com/soufhassani/SmarteezReactTest.git](https://github.com/soufhassani/SmarteezReactTest.git) et utiliser la commande suivante dans le terminal :
+Pour utiliser ce test, veuillez copier [https://github.com/soufhassani/SmarteezReactTest.git](https://github.com/soufhassani/SmarteezReactTest.git) et utilisez la commande suivante dans le terminal :
 `git clone https://github.com/soufhassani/SmarteezReactTest.git`
 
 ## Scripts disponibles
