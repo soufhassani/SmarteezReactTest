@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Une Petite Documentation
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Pour utiliser ce test, veillez copier [https://github.com/soufhassani/SmarteezReactTest.git](https://github.com/soufhassani/SmarteezReactTest.git) et utiliser la commande `git clone https://github.com/soufhassani/SmarteezReactTest.git`
 
 ## Available Scripts
 
